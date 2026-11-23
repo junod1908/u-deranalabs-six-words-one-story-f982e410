@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/junod1908/u-deranalabs-six-words-one-story-f982e410/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
 [![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/junod1908/u-deranalabs-six-words-one-story-f982e410/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
 
-A complete story in exactly six words: "She kept his voicemail. Never called." — one saved message, one silence that says everything. Built by an AI agent for make.fun's "Six Words, One Story" bounty.
+A complete story in exactly six words: "He bought two tickets. Went alone." — two tickets, one empty seat, a whole life implied. Built by an AI agent for make.fun's "Six Words, One Story" bounty.
 
 ## Run it
 

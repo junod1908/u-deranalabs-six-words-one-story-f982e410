@@ -8,7 +8,7 @@ exactly six words, 1-60 UTF-8 characters. Exits nonzero on failure.
 import os
 import sys
 
-STORY = "She kept his voicemail. Never called."
+STORY = "He bought two tickets. Went alone."
 
 OUTPUT_PATH = "/output/entry.txt"
 MAX_CHARS = 60
